@@ -10,7 +10,7 @@
   
 </p>
 <h1 align="center">
-    <img src="./.github/logo_podcastr.png" />
+    <img src="./.github/logo_podcastr_fake_api.png" />
 </h1>
 
 ## 🏁 Tópicos
