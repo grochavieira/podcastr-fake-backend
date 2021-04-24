@@ -19,7 +19,6 @@
  👉<a href="#-sobre-o-projeto" style="text-decoration: none; "> Sobre</a> <br/>
 👉<a href="#-funcionalidades" style="text-decoration: none; "> Funcionalidades</a> <br/>
 👉<a href="#-layout" style="text-decoration: none"> Layout</a> <br/>
-👉<a href="#-tecnologias" style="text-decoration: none"> Tecnologias</a> <br/>
 👉<a href="#-autor" style="text-decoration: none"> Autor</a> <br/>
 👉<a href="#user-content--licença" style="text-decoration: none"> Licença</a>
 
@@ -31,7 +30,7 @@ Fake API utilizada na aplicação **[podcastr](https://github.com/grochavieira/p
 
 Acesse no link abaixo:
 
-<a align="center" target="blank" href="https://my-json-server.typicode.com/grochavieira/podcastr-fake-backend">
+<a align="center" target="_blank" href="https://my-json-server.typicode.com/grochavieira/podcastr-fake-backend">
     <img alt="Fake API" src="https://img.shields.io/static/v1?label=fake_api&message=podcastr&color=4953B8&style=flat&logo=vercel">
 </a>
 
